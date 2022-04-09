@@ -1,0 +1,17 @@
+{
+	"name": "modal-lino",
+	"version": "1.0.3",
+	"description": "a component who allows to open and close a modal",
+	"main": "Modal.jsx",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"modal"
+	],
+	"author": "melvin33",
+	"license": "ISC",
+	"dependencies": {
+		"react": "^18.0.0"
+	}
+}
