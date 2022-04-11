@@ -1,17 +1,19 @@
 {
 	"name": "modal-lino",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "a component who allows to open and close a modal",
 	"main": "Modal.jsx",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
-		"modal"
+		"modal",
+		"react",
+		"component"
 	],
 	"author": "melvin33",
 	"license": "ISC",
-	"dependencies": {
+	"peerDependencies": {
 		"react": "^18.0.0"
 	}
 }
