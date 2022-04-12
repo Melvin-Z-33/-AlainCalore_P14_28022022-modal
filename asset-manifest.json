@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/-AlainCalore_P14_28022022-modal/static/css/main.6716a2a7.css",
+    "main.js": "/-AlainCalore_P14_28022022-modal/static/js/main.e07f818e.js",
+    "static/js/787.f4bf33be.chunk.js": "/-AlainCalore_P14_28022022-modal/static/js/787.f4bf33be.chunk.js",
+    "static/media/logo.svg": "/-AlainCalore_P14_28022022-modal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/-AlainCalore_P14_28022022-modal/index.html",
+    "main.6716a2a7.css.map": "/-AlainCalore_P14_28022022-modal/static/css/main.6716a2a7.css.map",
+    "main.e07f818e.js.map": "/-AlainCalore_P14_28022022-modal/static/js/main.e07f818e.js.map",
+    "787.f4bf33be.chunk.js.map": "/-AlainCalore_P14_28022022-modal/static/js/787.f4bf33be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6716a2a7.css",
+    "static/js/main.e07f818e.js"
+  ]
+}
