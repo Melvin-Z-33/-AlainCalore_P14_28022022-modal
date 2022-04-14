@@ -5,6 +5,8 @@ import React, { useState } from 'react';
  * @param {string} props.id - give an ID for the button
  * @param {string} props.buttonText - allows to change the text of the modal button
  * @param {string} props.modalText - allows to change the text of the modal
+ * @param {string} props.secondFunction - allows you to launch a function when you press  the button
+										create an empty function if you don't use it  =>  function foo(){};
  */
 
 function Modal(props) {
