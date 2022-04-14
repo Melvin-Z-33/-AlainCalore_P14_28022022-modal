@@ -3,9 +3,10 @@ import './App.css';
 import Modal from './components/Modal';
 
 function App() {
+	function test() {}
 	return (
 		<div className="App">
-			<Modal />
+			<Modal buttonText="Push me" secondFunction={test} modalText="it works!" />
 		</div>
 	);
 }
